@@ -64,7 +64,7 @@ export default function Home() {
             {/* Social Accounts */}
             <div className="flex items-center mt-8 space-x-6 md:mt-4">
               <motion.a
-                href="https://github.com/codingwithdidem"
+                href="https://github.com/aynurasultanm"
                 target={"_blank"}
                 rel="noopener noreferrer"
                 className="flex items-center justify-center text-gray-800 transition-colors duration-300 dark:text-gray-100 dark:hover:text-pinkish-200 hover:text-pinkish-200"
